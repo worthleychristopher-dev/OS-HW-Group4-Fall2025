@@ -1,1 +1,7 @@
+How to run HW0 programs
 
+Pt1:
+It was created using Ubuntu. Download the file and open it using a linux environment like Ubuntu, making sure it is in the correct linux directory, then opening it by typing in the command to launch vscode via ubuntu. Then just simply run it and the output will be in the vscode terminal.
+
+Pt2:
+It was created using VScode with the C/C++ microsoft library. Open the file using "Developer Command Prompt For VScode", making sure it is in the specified directory, then run it in VScode (opened by using the developer command prompt for vscode command to launch vscode)
