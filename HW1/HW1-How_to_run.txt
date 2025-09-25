@@ -1,4 +1,4 @@
 HW1 How to run
 
 Pt. 1: Word doc in folder containing this part, written by Chris Worthley
-Pt. 2: ..., written by Daniel Burns
+Pt. 2: ..., written by Daniel Burns, timer written by Chris Worthley
