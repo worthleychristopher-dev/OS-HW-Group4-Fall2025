@@ -5,4 +5,5 @@ Pt. 2: Download the file and open it using a linux environment like Ubuntu,
 making sure it is in the correct linux directory, then opening it by typing in the command to launch vscode via ubuntu. 
 Then just simply run it and the output will be in the vscode terminal.
 **The output for the threads is timed and compared with the IPC approach from HW0
+**IPC code from HW0 is ran first, then the threads approach for HW1
 , written by Daniel Burns, timer written by Chris Worthley
