@@ -1,0 +1,4 @@
+Pt1 and pt2 are located in a pdf document in this folder. Written by chris worthley
+
+How to run pt3:
+<insert steps here>
