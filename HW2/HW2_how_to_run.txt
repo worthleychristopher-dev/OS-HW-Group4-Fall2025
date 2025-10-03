@@ -1,4 +1,4 @@
 Pt1 and pt2 are located in a pdf document in this folder. Written by chris worthley
 
 How to run pt3:
-<insert steps here>
+download the go installer, go into a command window, go into the directory where the hw2_new.go file is located, type the command "go mod init <folder name with hw2_new in it>". Then run the command "go run hw2_new.go.
