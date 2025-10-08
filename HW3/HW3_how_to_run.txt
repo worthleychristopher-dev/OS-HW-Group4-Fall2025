@@ -2,4 +2,7 @@ HW3 how to run
 
 Pt1: Word doc in the HW3 folder that contains the write up for this part. Written by Chris Worthley
 
-Pt2: <insert here>
+Pt2: 
+How to run: download the go installer, go into a command window, go into the directory where the hw2_new.go file is located, type the command "go mod init <folder name with hw2_new in it>". Then run the command "go run hw2_new.go.
+
+How the benchmarking works: I created 3 functions in each type of list, fine-grained, and HoH. The three functions are add, remove, and contains, these functions are the three most basic functions of linked lists, adding values, removing values, and searching the list to find values. I then set up a benchmarking function to test each of the lists, the first benchmark tests the amount of time it takes to read the through the list. The second list focuses on writing in data and how long that takes. The final test checks the balanced amount of both reading and wirting in data. These parameters are kept constant between the two types of lists so that the time measured is relevant to each other list. The times are then displayed on the output screen in milliseconds for each of the different types of tests. 
