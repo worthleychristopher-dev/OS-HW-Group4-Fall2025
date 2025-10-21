@@ -1,0 +1,4 @@
+HW4 how to run
+
+Pt1:
+(notes for chris:) for benchmark, design each queue algorithm using each method, then use the timing method to get a benchmark of each
