@@ -1,1 +1,2 @@
 How to run: download the go installer, go into a command window, go into the directory where the Raid_Sim.go file is located, type the command "go mod init <folder name with Raid_Sim.go in it>". Then run the command "go run Raid_Sim.go.
+Libraries: "bytes", "encoding/binary", "fmt",	"io",	"math/rand",	"os",	"path/filepath",	"time"
